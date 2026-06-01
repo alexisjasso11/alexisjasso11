@@ -1,9 +1,9 @@
 # Hi, I'm Alexis Jasso 👋
 
-###🎓 IT Student @ California State University, San Bernardino
-###📍 Fontana, CA
-###🔐 Cybersecurity Concentration | Aspiring Cloud Security Engineer
-###📅 CompTIA Security+ Candidate — Exam Date: June 8, 2026
+### 🎓 IT Student @ California State University, San Bernardino
+### 📍 Fontana, CA
+### 🔐 Cybersecurity Concentration | Aspiring Cloud Security Engineer
+### 📅 CompTIA Security+ Candidate — Exam Date: June 8, 2026
 
 ---
 
