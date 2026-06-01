@@ -2,7 +2,7 @@
 
 #### 🎓 IT Student @ California State University, San Bernardino
 #### 📍 Fontana, CA
-#### 🔐 Cybersecurity Concentration | Aspiring Cloud Security Engineer
+#### 🔐 Cybersecurity Concentration | Aspiring Network & Cloud Security Engineer
 #### 📅 CompTIA Security+ Candidate — Exam Date: June 8, 2026
 
 ---
