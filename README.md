@@ -62,6 +62,7 @@ network level across all connected devices.
 - ☁️ Exploring Microsoft Azure fundamentals
 - 🛡️ Building toward AZ-500 Azure Security Engineer
 - 📂 Documenting home lab projects on GitHub
+- 📚 Azure Homelab Next
 
 ---
 
