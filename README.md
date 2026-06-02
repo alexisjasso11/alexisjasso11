@@ -42,6 +42,12 @@ and building toward Azure cloud security certifications.
 ---
 
 ## 🔬 Projects
+### 🏢 [Active Directory Home Lab — Windows Server 2025 / VirtualBox](https://github.com/alexisjasso11/Active-Directory-Home-Lab)
+Built a fully functional Active Directory environment on a
+personal desktop using VirtualBox — configuring a Domain
+Controller, creating Organizational Units, managing domain
+users, and enforcing Group Policy Objects to restrict access
+across domain-joined machines.
 
 ### 🖥️ [Home Network Lab — Proxmox / pfSense / Managed Switch](https://github.com/alexisjasso11/home-network-lab)
 Built a physical and virtualized home network lab to practice
