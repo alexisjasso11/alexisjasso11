@@ -14,8 +14,7 @@ security, and cloud infrastructure. I learn by doing —
 I've built a physical home lab running Proxmox and pfSense
 where I practice real world networking concepts including
 VLANs, trunking, firewall configuration, and network
-segmentation. Currently focused on passing CompTIA Security+
-and building toward Azure cloud security certifications.
+segmentation. Currently building toward Azure cloud security certifications.
 
 ---
 
