@@ -3,7 +3,7 @@
 #### 🎓 IT Student @ California State University, San Bernardino
 #### 📍 Fontana, CA
 #### 🔐 Cybersecurity Concentration | Aspiring Network & Cloud Security Engineer
-#### 📅 CompTIA Security+ — COMPLETE (June 8 2026)
+#### 📅 CompTIA Security+ — Passed (June 8 2026)
 
 ---
 
@@ -35,7 +35,7 @@ and building toward Azure cloud security certifications.
 
 | Certification | Status |
 |---|---|
-| CompTIA Security+ SY0-701 | ✅ Complete — June 8, 2026 |
+| CompTIA Security+ SY0-701 | ✅ Passed — June 8, 2026 |
 | AZ-900 Azure Fundamentals | 🎯 Planned |
 | AZ-500 Azure Security Engineer | 🎯 Planned |
 
