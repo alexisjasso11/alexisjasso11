@@ -41,7 +41,7 @@ segmentation. Currently building toward Azure cloud security certifications.
 ---
 
 ## 📚 Internship
-### 📖 ([Captain IT — MSP Internship Journal](https://github.com/alexisjasso11/CaptainIT-MSP-Internship-Journal)
+### 📖 [Captain IT — MSP Internship Journal](https://github.com/alexisjasso11/CaptainIT-MSP-Internship-Journal)
 Documenting my day-to-day experience as an IT intern at Captain IT,
 a Managed Service Provider — covering ticket troubleshooting, on-site
 client visits, Active Directory administration, Microsoft 365 license
