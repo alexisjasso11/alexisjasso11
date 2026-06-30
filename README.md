@@ -61,7 +61,6 @@ Deployed a network wide DNS sinkhole using Pi-hole on a Raspberry Pi to block ad
 ---
 
 ## 📈 Currently Working On
-- 🔥 Configuring SonicWall firewalls and IPsec VPN tunnels at Captain IT internship
 - 🔐 Preparing for AZ-900 Azure Fundamentals
 - ☁️ Exploring Microsoft Azure fundamentals
 - 🛡️ Building toward AZ-500 Azure Security Engineer
