@@ -26,7 +26,6 @@ I'm a second year IT student with a passion for networking, security, and cloud 
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft365&logoColor=white)
 ![IPsec VPN](https://img.shields.io/badge/IPsec_VPN-2E86C1?style=for-the-badge&logoColor=white)
 ![Synology NAS](https://img.shields.io/badge/Synology_NAS-B5B5B6?style=for-the-badge&logoColor=white)
-![Datto](https://img.shields.io/badge/Datto_Backup-00A99D?style=for-the-badge&logoColor=white)
 ![iDRAC](https://img.shields.io/badge/Dell_iDRAC-007DB8?style=for-the-badge&logo=dell&logoColor=white)
 ![Rufus](https://img.shields.io/badge/Rufus-E2231A?style=for-the-badge&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
