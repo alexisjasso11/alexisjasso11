@@ -35,19 +35,16 @@ I'm a second year IT student with a passion for networking, security, and cloud 
 
 ## 💼 Internship
 ### 📖 [Captain IT — MSP Internship Journal](https://github.com/alexisjasso11/CaptainIT-MSP-Internship-Journal)
-Documenting my day-to-day experience as an IT intern at Captain IT, a Managed Service Provider — covering real client tickets, on-site field visits, firewall configuration, VPN tunneling, server administration, Active Directory, NAS backup setup, Microsoft 365 administration, and Identity & Access Management across multiple client tenants.
+ands-on IT internship at a Managed Service Provider supporting real client environments across networking, security, systems administration, and cloud identity.
 
-**Skills gained so far:**
-- Configured a **SonicWall TZ80** next-generation firewall and deployed a **site-to-site IPsec VPN tunnel** between two client locations — pre-configured in the office and deployed on-site
-- Administered **Active Directory** user accounts, permissions, and group policies in live client environments — including onboarding, offboarding, and shared resource access
-- Configured a **Dell PowerEdge R640** enterprise server from scratch — reset iDRAC via BIOS, flashed **Windows Server 2025** via Rufus bootable USB, and configured **AD DS roles** as a temporary Domain Controller for a client migration
-- Audited **MFA authentication methods** across all managed client tenants via **Microsoft Entra ID**, identifying users relying on SMS-based auth ahead of Microsoft's deprecation due to SIM swapping and SS7 vulnerabilities
-- Configured **Synology NAS** for network drive mapping and automated backups across local, VDI, and Microsoft 365 environments — including diagnosing and resolving a GEO IP block and DNS misconfiguration
-- Deployed and troubleshot **Datto** backup agents on client endpoints
-- Managed **Microsoft 365** licensing, shared mailboxes, distribution lists, and email provisioning across multiple client tenants
-- Resolved hardware, connectivity, and endpoint issues on-site and remotely via **RDP** — including printer troubleshooting, desktop migrations, and vendor escalations
-- Conducted on-site **network discovery**, asset tagging, and infrastructure documentation across multiple client locations
-- Tracked and documented all incidents in a **PSA/ticketing platform (ConnectWise)** to support trend identification and remediation
+**Skills & exposure so far:**
+- **Firewall & VPN** — configured and deployed SonicWall TZ80 firewalls and site-to-site IPsec VPN tunnels for client locations
+- **Server Administration** — built a Dell PowerEdge R640 from scratch; iDRAC reset, Windows Server 2025 install, AD DS Domain Controller setup
+- **Identity & Access Management** — audited MFA methods across managed tenants via Microsoft Entra ID; flagged SMS auth users ahead of Microsoft's deprecation
+- **Microsoft 365** — managed licensing, shared mailboxes, distribution lists, and email provisioning across multiple client tenants
+- **Active Directory** — user onboarding/offboarding, permissions, and group policy in live environments
+- **Backup & Storage** — configured Synology NAS and Datto for automated backups across local, VDI, and M365 environments
+- **On-Site Support** — hardware replacements, printer troubleshooting, network discovery, and asset tagging across client locations
 ---
 
 ## 🔬 Projects
