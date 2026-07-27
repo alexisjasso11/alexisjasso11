@@ -38,7 +38,7 @@ I'm a second year IT student with a passion for networking, security, and cloud 
 | Certification | Status |
 |---|---|
 | CompTIA Security+ SY0-701 | ✅ Passed — June 8, 2026 |
-| AZ-900 Azure Fundamentals | 🎯 In Progress |
+| AZ-104 Microsoft Azure Administrator | 🎯 In Progress |
 | AZ-500 Azure Security Engineer | 🎯 Planned |
 
 ---
@@ -70,7 +70,7 @@ Deployed a network wide DNS sinkhole using Pi-hole on a Raspberry Pi to block ad
 ---
 
 ## 📈 Currently Working On
-- 🔐 Preparing for AZ-900 Azure Fundamentals
+- 🔐 Preparing for AZ-104 Home Lab Setup + Studying
 - ☁️ Exploring Microsoft Azure fundamentals
 - 🛡️ Building toward AZ-500 Azure Security Engineer
 - 📂 Documenting internship logs and home lab projects on GitHub
