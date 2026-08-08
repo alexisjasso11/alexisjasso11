@@ -44,8 +44,8 @@ I'm a second year IT student with a passion for networking, security, and cloud 
 | Certification | Status |
 |---|---|
 | CompTIA Security+ SY0-701 | ✅ Passed — June 8, 2026 |
-| AZ-104 Microsoft Azure Administrator | 🔄 In Progress |
-| AZ-500 Azure Security Engineer | 🎯 Planned |
+| CCNA | 🔄 In Progress |
+| AZ-104 Microsoft Azure Administrator | 🎯 Planned |
 
 ---
 
@@ -82,9 +82,7 @@ Deployed a network wide DNS sinkhole using Pi-hole on a Raspberry Pi to block ad
 
 ## 📈 Currently Working On
 - 🏟️ Event Support Technician @ Legends Global
-- 🔐 AZ-104 Azure Administrator — actively studying
-- ☁️ Azure home lab — Entra ID, Terraform & Ansible automation
-- 🛡️ Building toward AZ-500 Azure Security Engineer
+- 🔐 CCNA — actively studying
 - 📂 Continuing to document projects on GitHub
 
 ---
